@@ -4,3 +4,5 @@ _(ucim sa japonsky, sry)_
 
 ## O mne
 Ja som Lukyns.
+
+## AHOJ SVET JANA
