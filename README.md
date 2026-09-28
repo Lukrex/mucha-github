@@ -10,3 +10,4 @@ Ja som Lukyns.
 
 ## AHOJ SVET JANA
 >>>>>>> bf34786192ffbfecc8a1fe7b0f954314ebeebce8
+rozpracovane
